@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+
+<?import javafx.scene.text.Font?>
+<GridPane fx:id="loginGridPane" alignment="center" centerShape="false" hgap="10" stylesheets="@styles.css" vgap="10" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+
+        <!--<Label fx:id="welcomeMessage" text="Hello, Alex!" GridPane.columnIndex="0" GridPane.rowIndex="0"-->
+               <!--GridPane.columnSpan="2"/>-->
+        <Button id="login_faceid_button" alignment="BOTTOM_RIGHT" onAction="#checkIdentity" text="Login using FaceID" textAlignment="CENTER" textFill="#323030">
+            <font>
+                <Font name="Avenir Book" size="14.0"/>
+            </font>
+      <GridPane.margin>
+         <Insets left="120.0" top="200.0" />
+      </GridPane.margin></Button>
+        <Button fx:id="login_exit_app" onAction="#quitApp" text="X">
+      <GridPane.margin>
+         <Insets bottom="450.0" left="360.0" />
+      </GridPane.margin></Button>
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+</GridPane>

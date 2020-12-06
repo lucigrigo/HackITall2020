@@ -1,0 +1,27 @@
+#loginGridPane {
+    -fx-background-image: url("https://cdn0.erstegroup.com/content/sites/ro/bcr/www_bcr_ro/ro/business/conturi-si-tranzactii/_jcr_content/configuration/pageTeasers/default/image.fitIn.w1200.png/14486233314831450346805126.png");
+    -fx-background-position: center;
+    -fx-alignment: center;
+    -fx-padding: 10;
+}
+
+#mainGridPane {
+    -fx-background: #8cdbfa;
+}
+
+#creditGridPane {
+    -fx-background: #8cdbfa;
+}
+
+#remindersGridPane {
+    -fx-background: #8cdbfa;
+}
+
+#cheltuieliGridPane {
+    -fx-background: #8cdbfa;
+}
+
+#welcomeMessage {
+    -fx-font: 16px "Serif";
+    -fx-padding: 10;
+}

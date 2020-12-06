@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<GridPane fx:id="cheltuieliGridPane" alignment="center" centerShape="false" hgap="10"
+          stylesheets="@styles.css" vgap="10" xmlns="http://javafx.com/javafx/8.0.172-ea"
+          xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.SfaturiCheltuieliController">
+    <Button GridPane.columnIndex="0" GridPane.rowIndex="0" text="Back" onAction="#goBack"/>
+    <Button GridPane.columnIndex="0" GridPane.rowIndex="1" text="Get recommendations" onAction="#recommend" fx:id="messButton"/>
+    <TextArea GridPane.rowIndex="2" GridPane.columnIndex="0" fx:id="textArea"/>
+</GridPane>

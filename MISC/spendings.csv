@@ -1,0 +1,106 @@
+﻿Day,Month,Type,Company,Sum
+4,1,Food,Kaufland,212
+10,1,Services,Netflix,60
+11,1,Food,Kaufland,225
+15,1,Services,S.C. Gigi Apartments S.R.L,1704
+16,1,Services,S.C. Electrica S.R.L,198
+16,1,Services,Intretinere,50
+18,1,Food,Kaufland,195
+18,1,Services,S.C. Compania de Apa S.R.L,110
+25,1,Food,Kaufland,259
+1,2,Food,Kaufland,124
+8,2,Food,Kaufland,351
+10,2,Services,Netflix,60
+15,2,Food,Kaufland,214
+15,2,Services,S.C. Gigi Apartments S.R.L,1704
+16,2,Services,S.C. Electrica S.R.L,194
+16,2,Services,Intretinere,50
+18,2,Services,S.C. Compania de Apa S.R.L,120
+22,2,Food,Kaufland,256
+29,2,Food,Kaufland,199
+7,3,Food,Kaufland,391
+10,3,Services,Netflix,60
+14,3,Food,Kaufland,411
+15,3,Services,S.C. Gigi Apartments S.R.L,1704
+16,3,Services,S.C. Electrica S.R.L,180
+16,3,Services,Intretinere,50
+18,3,Services,S.C. Compania de Apa S.R.L,115
+21,3,Food,Kaufland,255
+28,3,Food,Kaufland,267
+4,4,Food,Kaufland,212
+10,4,Services,Netflix,60
+11,4,Food,Kaufland,225
+15,4,Services,S.C. Gigi Apartments S.R.L,1704
+16,4,Services,S.C. Electrica S.R.L,170
+16,4,Services,Intretinere,50
+18,4,Food,Kaufland,195
+18,4,Services,S.C. Compania de Apa S.R.L,125
+25,4,Food,Kaufland,259
+2,5,Food,Kaufland,124
+9,5,Food,Kaufland,351
+10,5,Services,Netflix,60
+15,5,Services,S.C. Gigi Apartments S.R.L,1704
+16,5,Food,Kaufland,214
+16,5,Services,S.C. Electrica S.R.L,159
+16,5,Services,Intretinere,50
+18,5,Services,S.C. Compania de Apa S.R.L,123
+23,5,Food,Kaufland,256
+26,5,Electronics,Altex,1999
+30,5,Food,Kaufland,199
+6,6,Food,Kaufland,391
+10,6,Services,Netflix,60
+13,6,Food,Kaufland,411
+15,6,Services,S.C. Gigi Apartments S.R.L,1704
+16,6,Services,S.C. Electrica S.R.L,150
+16,6,Services,Intretinere,50
+18,6,Services,S.C. Compania de Apa S.R.L,126
+20,6,Food,Kaufland,255
+27,6,Food,Kaufland,267
+4,7,Food,Kaufland,212
+10,7,Services,Netflix,60
+11,7,Food,Kaufland,225
+15,7,Services,S.C. Gigi Apartments S.R.L,1704
+16,7,Services,S.C. Electrica S.R.L,150
+16,7,Services,Intretinere,50
+18,7,Food,Kaufland,195
+18,7,Services,S.C. Compania de Apa S.R.L,140
+25,7,Food,Kaufland,259
+1,8,Food,Kaufland,124
+8,8,Food,Kaufland,351
+10,8,Services,Netflix,60
+15,8,Food,Kaufland,214
+15,8,Services,S.C. Gigi Apartments S.R.L,1704
+16,8,Services,S.C. Electrica S.R.L,152
+16,8,Services,Intretinere,50
+18,8,Services,S.C. Compania de Apa S.R.L,139
+22,8,Food,Kaufland,256
+29,8,Food,Kaufland,199
+29,8,Electronics,Altex,4990
+5,9,Food,Kaufland,391
+10,9,Services,Netflix,60
+12,9,Food,Kaufland,411
+15,9,Services,S.C. Gigi Apartments S.R.L,1704
+16,9,Services,S.C. Electrica S.R.L,165
+16,9,Services,Intretinere,50
+18,9,Services,S.C. Compania de Apa S.R.L,133
+19,9,Food,Kaufland,255
+26,9,Food,Kaufland,267
+3,10,Food,Kaufland,212
+10,10,Services,Netflix,60
+10,10,Food,Kaufland,225
+15,10,Services,S.C. Gigi Apartments S.R.L,1704
+16,10,Services,S.C. Electrica S.R.L,175
+16,10,Services,Intretinere,50
+17,10,Food,Kaufland,195
+18,10,Services,S.C. Compania de Apa S.R.L,126
+24,10,Food,Kaufland,259
+31,10,Food,Kaufland,124
+7,11,Food,Kaufland,351
+10,11,Services,Netflix,60
+14,11,Food,Kaufland,214
+15,11,Services,S.C. Gigi Apartments S.R.L,1704
+16,11,Services,S.C. Electrica S.R.L,185
+16,11,Services,Intretinere,50
+18,11,Services,S.C. Compania de Apa S.R.L,124
+21,11,Food,Kaufland,256
+28,11,Food,Kaufland,199

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<GridPane fx:id="mainGridPane" alignment="center" centerShape="false" hgap="10" stylesheets="@styles.css" vgap="10" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.SecondController">
+   <children>
+      <Label fx:id="welcomeMessage2" text="Welcome, Alex" GridPane.columnSpan="2147483647" GridPane.halignment="CENTER" GridPane.rowSpan="2147483647" GridPane.valignment="CENTER">
+         <font>
+            <Font name="Avenir Book" size="20.0" />
+         </font>
+      </Label>
+      <Label fx:id="welcomeMessage3" text="Optiuni utilizator" textAlignment="CENTER" GridPane.columnSpan="2147483647" GridPane.halignment="CENTER" GridPane.rowSpan="2147483647" GridPane.valignment="CENTER">
+         <font>
+            <Font name="Avenir Book" size="20.0" />
+         </font>
+      </Label>
+      <Button fx:id="button1" mnemonicParsing="false" onAction="#reminders" text="Reminders">
+         <font>
+            <Font name="Avenir Book" size="13.0" />
+         </font>
+         <GridPane.margin>
+            <Insets left="125.0" top="200.0" />
+         </GridPane.margin>
+      </Button>
+      <Button fx:id="button2" mnemonicParsing="false" onAction="#sfaturiCheltuieli" text="Asistent cumparaturi">
+         <GridPane.margin>
+            <Insets left="230.0" top="200.0" />
+         </GridPane.margin>
+         <font>
+            <Font name="Avenir Book" size="13.0" />
+         </font>
+      </Button>
+      <Button fx:id="button3" mnemonicParsing="false" onAction="#cerereCredit" text="Cerere credit">
+         <GridPane.margin>
+            <Insets right="220.0" top="200.0" />
+         </GridPane.margin>
+         <font>
+            <Font name="Avenir Book" size="13.0" />
+         </font>
+      </Button>
+      <Button fx:id="button4" mnemonicParsing="false" onAction="#quitApp" text="X">
+         <GridPane.margin>
+            <Insets bottom="300.0" left="300.0" />
+         </GridPane.margin>
+      </Button>
+      <Button mnemonicParsing="false" text="Doctor George" onAction="#doctorMsg" fx:id="button5">
+         <GridPane.margin>
+            <Insets left="120.0" top="350.0" />
+         </GridPane.margin>
+      </Button>
+   </children>
+   <columnConstraints>
+      <ColumnConstraints />
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+      <RowConstraints />
+   </rowConstraints>
+</GridPane>
